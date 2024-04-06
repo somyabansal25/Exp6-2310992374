@@ -1,3 +1,7 @@
 hello!!
 how are you ?
+<<<<<<< HEAD
 fine
+=======
+this is exp 8
+>>>>>>> newBranch
